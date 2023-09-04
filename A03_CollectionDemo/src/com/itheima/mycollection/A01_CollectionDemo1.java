@@ -24,5 +24,6 @@ public class A01_CollectionDemo1 {
         System.out.println(coll);
 
         System.out.println(coll.isEmpty());
+        //test
     }
 }
