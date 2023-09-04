@@ -24,6 +24,7 @@ public class A02_Iterator {
         }
         System.out.println(coll);
         System.out.println("你好世界!");
+        System.out.println("Hello World!");
 
 
 
